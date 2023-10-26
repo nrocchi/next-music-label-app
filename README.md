@@ -2,6 +2,8 @@
 
 Next application for music labels using React, Tailwind, Supabase, PostgreSQL & Stripe.
 
+[Visit the demo here](https://next-music-label-app.vercel.app/)
+
 use [Stripe Testing Cards](https://stripe.com/docs/testing)
 
 ## Features
